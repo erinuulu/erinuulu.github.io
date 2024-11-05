@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://erinuulu.github.io/SIh/sitemap_index.txt
+Sitemap: https://erinuulu.github.io/bEi/sitemap_index.txt
+Sitemap: https://erinuulu.github.io/osX/sitemap_index.txt
+Sitemap: https://erinuulu.github.io/xDn/sitemap_index.txt
